@@ -7,13 +7,13 @@
 * vi.喊「喂」；
 
 ### 用法：執行程式+欲查的單字+add
-如：python engword.py hello add
+如：python engword.py hello add  
 將單字加入自己的清單
 
 ### 用法：執行程式+欲查的單字+del
-如：python engword.py hello del
+如：python engword.py hello del  
 將單字從自己的清單刪除
 
 ### 用法：執行程式+欲查的單字+mylist
-如：python engword.py hello mylist
+如：python engword.py hello mylist  
 從自己的清單查詢單字
