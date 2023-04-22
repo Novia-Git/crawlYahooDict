@@ -1,4 +1,4 @@
-## Python 爬取網路英文字典範例
+## Python 爬取雅虎字典範例
 ### 用法：執行程式+欲查的單字
 如：python engword.py hello  
 
