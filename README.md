@@ -2,18 +2,24 @@
 ### 用法：執行程式+欲查的單字
 如：python engword.py hello  
 
-* int.哈嘍，喂；你好，您好；表示問候；打招呼；
-* n.「喂」的招呼聲或問候聲；
-* vi.喊「喂」；
+* int.
+1. （用以打招呼或喚起注意）哈囉，你好 Hello, Jim! How are you? 哈囉，吉姆！你好嗎？
 
-### 用法：執行程式+欲查的單字+add
-如：python engword.py hello add  
-將單字加入自己的清單
 
-### 用法：執行程式+欲查的單字+del
-如：python engword.py hello del  
-將單字從自己的清單刪除
+2. （用作打電話時的招呼語）哈囉
 
-### 用法：執行程式+欲查的單字+mylist
-如：python engword.py hello mylist  
-從自己的清單查詢單字
+
+3. （表示驚訝等）嘿；啊
+
+
+* n.
+1. 表示問候（或驚奇，或喚起注意時）的叫聲[C][U] She said hello to me when she saw me. 她見到我時向我打招呼。
+
+
+* vi.
+1. 喊哈囉
+
+
+* vt.
+1. 向……說哈囉
+
